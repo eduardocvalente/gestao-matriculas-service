@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MatriculasService.Application": {
+      "commandName": "Project"
+    }
+  }
+}

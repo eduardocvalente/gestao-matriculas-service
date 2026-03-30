@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="MatriculasService.API/MatriculasService.API.csproj" Id="7a787980-75c1-46f4-8c31-fdf99ce70f60" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="MatriculasService.Application/MatriculasService.Application.csproj" Id="3847b8e6-196d-42af-b075-4f65d3ed3a06" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="MatriculasService.Domain/MatriculasService.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="MatriculasService.Infrastructure/MatriculasService.Infrastructure.csproj" Id="8f1e8efc-f0a2-4ee1-b6e1-8ea2d3dbf076" />
+  </Folder>
+</Solution>
